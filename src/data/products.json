@@ -1,0 +1,111 @@
+ 
+ [
+  {
+    "id": 1,
+    "title": "Classic White T-Shirt",
+    "description": "Premium quality cotton t-shirt for everyday wear",
+    "price": 24.99,
+    "image": "/public/3.jpg",
+    "category": "men",
+    "availableSizes": ["S", "M", "L", "XL"]
+  },
+  {
+   "id": 2,
+    "title": "Floral Summer Dress",
+    "description": "Lightweight floral dress perfect for summer occasions",
+    "price": 49.99,
+    "image": "public/avatar11.jpg",
+    "category": "women",
+   "availableSizes": ["XS", "S", "M", "L"]
+  },
+  {
+   "id": 3,
+    "title": "Kids Denim Jacket",
+    "description": "Durable denim jacket for active kids",
+    "price": 39.99,
+    "image": "public/avatar13.jpg",
+    "category": "kids",
+    "availableSizes": ["XS", "S", "M", "L"]
+  },
+  {
+   "id": 4,
+    "title": "Slim Fit Jeans",
+    "description": "Modern slim fit jeans with stretch technology",
+    "price": 59.99,
+   " image": "public/avatar15.jpg",
+    "category": "men",
+    "availableSizes": ["XS", "S", "M", "L"]
+  },
+  {
+   "id": 5,
+    "title": "Knit Sweater",
+    "description": "Warm and comfortable knit sweater for cold days",
+    "price": 45.99,
+    "image": "public/avatar2.jpg",
+    "category": "women",
+    "availableSizes": ["XS", "S", "M", "L"]
+  },
+  {
+   "id": 6,
+    "title": "Kids Sneakers",
+    "description": "Comfortable sneakers with velcro straps for easy wear",
+    "price": 34.99,
+    "image": "public/avatar3.jpg",
+    "category": "kids",
+    "availableSizes": ["XS", "S", "M", "L"]
+  },
+  {
+   "id": 7,
+    "title": "Leather Wallet",
+    "description": "Genuine leather wallet with multiple card slots",
+    "price": 29.99,
+    "image": "public/avatar4.jpg",
+    "category": "men",
+    "availableSizes": ["XS", "S", "M", "L"]
+  },
+  {
+   "id": 8,
+    "title": "Silk Scarf",
+    "description": "Elegant silk scarf with floral pattern",
+    "price": 39.99,
+    "image": "public/avatar8.jpg",
+   " category": "women",
+    "availableSizes": ["XS", "S", "M", "L"]
+  },
+  {
+   "id": 9,
+    "title": "Kids Backpack",
+    "description": "Colorful backpack with cartoon characters",
+    "price": 24.99,
+    "image": "public/Coat.jpg",
+    "category": "kids",
+    "availableSizes": ["XS", "S", "M", "L"]
+  },
+  {
+   "id": 10,
+    "title": "Formal Dress Shirt",
+    "description": "Crisp white dress shirt for formal occasions",
+    "price": 54.99,
+    "image": "public/Hat.jpg",
+    "category": "men",
+    "availableSizes": ["XS", "S", "M", "L"]
+  },
+  {
+   "id": 11,
+    "title": "Yoga Pants",
+    "description": "Stretchy yoga pants with high waist",
+    "price": 42.99,
+    "image": "public/pexels-mart-production-9558605.jpg",
+    "category": "women",
+    "availableSizes": ["XS", "S", "M", "L"]
+  },
+  {
+   "id": 12,
+    "title": "Kids Rain Boots",
+    "description": "Waterproof rain boots with fun patterns",
+    "price": 29.99,
+    "image": "public/Skirt.jpg",
+    "category": "kids",
+    "availableSizes": ["XS", "S", "M", "L"]
+  }
+ ]
